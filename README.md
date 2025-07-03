@@ -2,7 +2,7 @@
   <img src="https://66.media.tumblr.com/de1b2945b1c79b545a980c3776d6276c/tumblr_ogcrgoPCqN1rfd7lko1_r1_500.gif" width="500" alt="Coding GIF">
 </p>
 
-<h1 align="center">Hi I'm Abdulla </h1>
+<h1 align="center">Hi I'm Abdullah </h1>
 <h3 align="center">AI Student 🎓 | Trading Tools Developer 📈 | Automation & Smart Systems Programmer 💻</h3>
 
 ---
@@ -25,16 +25,15 @@ I specialize in developing **smart tools** and **advanced automation systems** t
 ### 🛠️ Programming Skills
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Pine Script](https://img.shields.io/badge/Pine_Script-05C793?style=for-the-badge&logo=tradingview&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
+  <img src="https://img.icons8.com/3d-fluency/96/python.png" alt="Python" width="64" />
+  <img src="https://img.icons8.com/3d-fluency/96/java-coffee-cup-logo.png" alt="Java" width="64" />
+  <img src="https://img.icons8.com/3d-fluency/96/javascript.png" alt="JavaScript" width="64" />
+  <img src="https://img.icons8.com/color/96/trading-view.png" alt="Pine Script" width="64" />
+  <img src="https://img.icons8.com/3d-fluency/96/html-5.png" alt="HTML5" width="64" />
+  <img src="https://img.icons8.com/3d-fluency/96/css3.png" alt="CSS3" width="64" />
+  <img src="https://img.icons8.com/3d-fluency/96/c-sharp-logo.png" alt="C#" width="64" />
 </div>
+
 
 ---
 
@@ -42,7 +41,6 @@ I specialize in developing **smart tools** and **advanced automation systems** t
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jtmx3&show_icons=true&theme=radical" alt="JTMX#GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtmx3&theme=radical" alt="JTMX# GitHub Streak" />
 </p>
 
 ---
