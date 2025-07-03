@@ -2,7 +2,7 @@
   <img src="https://66.media.tumblr.com/de1b2945b1c79b545a980c3776d6276c/tumblr_ogcrgoPCqN1rfd7lko1_r1_500.gif" width="500" alt="Coding GIF">
 </p>
 
-<h1 align="center">Hi 👋 I'm Ghoraba</h1>
+<h1 align="center">Hi I'm Abdulla </h1>
 <h3 align="center">AI Student 🎓 | Trading Tools Developer 📈 | Automation & Smart Systems Programmer 💻</h3>
 
 ---
