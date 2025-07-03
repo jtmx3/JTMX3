@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\ASUS\Desktop\photo_2025-02-12_02-49-24.mp4" width="500" alt="Coding GIF">
+  <img src="https://drive.google.com/drive/folders/1txNcoIDI3L6HNmpr5mpWqSJtOYyAZIDF?usp=drive_link" width="500" alt="Coding GIF">
 </p>
 
 <h1 align="center">Hi 👋 I'm Ghoraba</h1>
