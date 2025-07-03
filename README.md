@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/drive/folders/1txNcoIDI3L6HNmpr5mpWqSJtOYyAZIDF?usp=drive_link" width="500" alt="Coding GIF">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnB2YjI2OGF1c3ZxZjJ3azJoZjNsa2J0NTR4NDhuYnV2c2xvangxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VzdgcEEu7Z2bhYJJid/giphy.gif" width="500" alt="Coding GIF">
 </p>
 
 <h1 align="center">Hi 👋 I'm Ghoraba</h1>
