@@ -28,11 +28,12 @@ I specialize in developing **smart tools** and **advanced automation systems** t
   <img src="https://img.icons8.com/3d-fluency/96/python.png" alt="Python" width="64" />
   <img src="https://img.icons8.com/3d-fluency/96/java-coffee-cup-logo.png" alt="Java" width="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/TradingView_logo.svg" alt="Pine Script" width="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tradingview/tradingview-original.svg" alt="Pine Script" width="64" />
   <img src="https://img.icons8.com/color/96/html-5.png" alt="HTML5" width="64" />
   <img src="https://img.icons8.com/color/96/css3.png" alt="CSS3" width="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="64" />
 </div>
+
 
 
 
