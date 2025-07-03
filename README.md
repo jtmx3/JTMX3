@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.theshiznit.co.uk/media/2013/June/wolfgif/fist.gif" width="500" alt="Coding GIF">
+  <img src="https://66.media.tumblr.com/de1b2945b1c79b545a980c3776d6276c/tumblr_ogcrgoPCqN1rfd7lko1_r1_500.gif" width="500" alt="Coding GIF">
 </p>
 
 <h1 align="center">Hi 👋 I'm Ghoraba</h1>
