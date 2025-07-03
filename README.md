@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://66.media.tumblr.com/de1b2945b1c79b545a980c3776d6276c/tumblr_ogcrgoPCqN1rfd7lko1_r1_500.gif" width="1000" alt="Coding GIF">
+  <img src="https://66.media.tumblr.com/de1b2945b1c79b545a980c3776d6276c/tumblr_ogcrgoPCqN1rfd7lko1_r1_500.gif" width="700" alt="Coding GIF">
 </p>
 
 <h1 align="center">Hi I'm Abdullah </h1>
