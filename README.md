@@ -41,8 +41,8 @@ I specialize in developing **smart tools** and **advanced automation systems** t
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghoraba-dev&show_icons=true&theme=radical" alt="Ghoraba's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghoraba-dev&theme=radical" alt="Ghoraba's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jtmx3&show_icons=true&theme=radical" alt="JTMX#GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtmx3&theme=radical" alt="JTMX# GitHub Streak" />
 </p>
 
 ---
