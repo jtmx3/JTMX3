@@ -50,11 +50,17 @@ I specialize in developing **smart tools** and **advanced automation systems** t
 
 ### 📫 Contact Me
 
+### 📫 Contact Me
+
 <p align="center">
-  <a href="https://t.me/ghoraba"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ghoraba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdullah-aljedi-420754357/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;" />
+  </a>
+  <a href="https://t.me/Q_5_7" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="40" height="40" style="margin: 0 10px;" />
+  </a>
 </p>
+
 
 ---
 
