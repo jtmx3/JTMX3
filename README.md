@@ -25,6 +25,8 @@ I specialize in developing **smart tools** and **advanced automation systems** t
 ### 🛠️ Programming & Automation Skills
 
 
+### 🛠️ Programming & Automation Skills
+
 <div align="center">
 
   <!-- Core Languages -->
@@ -37,19 +39,19 @@ I specialize in developing **smart tools** and **advanced automation systems** t
 
   <br/><br/>
 
-  <!-- Trading Technologies -->
-  <img src="https://www.tradingview.com/static/images/favicon.ico" alt="Pine Script" width="64"/>
-  <img src="https://www.mql5.com/i/metaquotes-logo.png" alt="MQL5" width="64"/>
-  <img src="https://www.mql5.com/i/metaquotes-logo.png" alt="MQL4" width="64"/>
+  <!-- Trading & Market Tech -->
+  <img src="https://images.genai.works/image_eee79ba42a.png" alt="Pine Script" width="64"/>
+  <img src="https://www.fpmarkets.com/assets/images/blogs/mql4.png" alt="MQL4" width="64"/>
+  <img src="https://www.fpmarkets.com/assets/images/blogs/mql4.png" alt="MQL5" width="64"/>
 
   <br/><br/>
 
   <!-- Automation & Integration -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" alt="n8n" width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Apps Script" width="64"/>
+  <img src="https://images.seeklogo.com/logo-png/47/2/n8n-logo-png_seeklogo-470809.png" alt="n8n" width="64"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1280px-Google_Apps_Script.svg.png" alt="Google Apps Script" width="64"/>
   
-  <!-- BotFather Logo -->
-  <img src="https://telegram.org/img/t_logo.png" alt="BotFather Telegram Bot" width="64"/>
+  <!-- BotFather Logo for Telegram Bots -->
+  <img src="https://telegram.org/img/t_logo.png" alt="Telegram BotFather" width="64"/>
 
 </div>
 
