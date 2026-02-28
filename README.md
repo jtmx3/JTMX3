@@ -24,32 +24,34 @@ I specialize in developing **smart tools** and **advanced automation systems** t
 
 ### 🛠️ Programming & Automation Skills
 
+
 <div align="center">
 
   <!-- Core Languages -->
-  <img src="https://img.icons8.com/3d-fluency/96/python.png" alt="Python" width="64" />
-  <img src="https://img.icons8.com/3d-fluency/96/java-coffee-cup-logo.png" alt="Java" width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" />
-  <img src="https://img.icons8.com/color/96/html-5.png" alt="HTML5" width="64" />
-  <img src="https://img.icons8.com/color/96/css3.png" alt="CSS3" width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="64"/>
 
   <br/><br/>
 
-  <!-- Trading & Market Technologies -->
-  <img src="https://miro.medium.com/v2/resize:fit:480/1*aMKv9UbI3fZiAVJxNTTwew.png" alt="Pine Script" width="64" />
-  <img src="https://www.mql5.com/i/metaquotes-logo.png" alt="MQL5" width="64" />
-  <img src="https://www.mql5.com/i/metaquotes-logo.png" alt="MQL4" width="64" />
+  <!-- Trading Technologies -->
+  <img src="https://www.tradingview.com/static/images/favicon.ico" alt="Pine Script" width="64"/>
+  <img src="https://www.mql5.com/i/metaquotes-logo.png" alt="MQL5" width="64"/>
+  <img src="https://www.mql5.com/i/metaquotes-logo.png" alt="MQL4" width="64"/>
 
   <br/><br/>
 
   <!-- Automation & Integration -->
-  <img src="https://n8n.io/favicon.ico" alt="n8n" width="64" />
-  <img src="https://developers.google.com/apps-script/images/clasp-128.png" alt="Google Apps Script" width="64" />
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Bots" width="64" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" alt="n8n" width="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Apps Script" width="64"/>
+  
+  <!-- BotFather Logo -->
+  <img src="https://telegram.org/img/t_logo.png" alt="BotFather Telegram Bot" width="64"/>
 
 </div>
-
 
 ### 📫 Contact Me
 
