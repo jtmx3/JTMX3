@@ -22,54 +22,77 @@ I specialize in developing **smart tools** and **advanced automation systems** t
 
 ---
 
+<!-- =========================
+     🛠️ Skills Section (PRO)
+========================= -->
 
+<h2 align="center">🛠️ Programming & Automation Skills</h2>
 
+<p align="center">
+  <sub><b>Core Languages</b> • Trading & Market Tech • Automation & Integration</sub>
+</p>
 
-**### 🛠️ Programming & Automation Skills
+<br/>
 
+<!-- ✅ Core Languages -->
+<h3 align="center">⚙️ Core Languages</h3>
 <div align="center">
-
-  <!-- Core Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="64"/>
-
-  <br/><br/>
-
-  <!-- Trading & Market Tech -->
-  <img src="https://images.genai.works/image_eee79ba42a.png" alt="Pine Script" width="64"/>
-  <img src="https://www.fpmarkets.com/assets/images/blogs/mql4.png" alt="MQL4" width="64"/>
-  <img src="https://www.fpmarkets.com/assets/images/blogs/mql4.png" alt="MQL5" width="64"/>
-
-  <br/><br/>
-
-  <!-- Automation & Integration -->
-  <img src="https://images.seeklogo.com/logo-png/47/2/n8n-logo-png_seeklogo-470809.png" alt="n8n" width="64"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1280px-Google_Apps_Script.svg.png" alt="Google Apps Script" width="64"/>
-  
-  <!-- BotFather Logo for Telegram Bots -->
-  <img src="https://telegram.org/img/t_logo.png" alt="Telegram BotFather" width="64"/>
-
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="58" height="58"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="58" height="58"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="58" height="58"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="58" height="58"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="58" height="58"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="58" height="58"/></a>
 </div>
 
-### 📫 Contact Me
+<br/><br/>
+
+<!-- ✅ Trading & Market Tech -->
+<h3 align="center">📈 Trading & Market Tech</h3>
+<div align="center">
+  <a href="#"><img src="https://images.genai.works/image_eee79ba42a.png" alt="Pine Script" width="58" height="58"/></a>
+  <a href="#"><img src="https://www.fpmarkets.com/assets/images/blogs/mql4.png" alt="MQL4" width="58" height="58"/></a>
+  <a href="#"><img src="https://www.fpmarkets.com/assets/images/blogs/mql4.png" alt="MQL5" width="58" height="58"/></a>
+</div>
+
+<br/><br/>
+
+<!-- ✅ Automation & Integration -->
+<h3 align="center">🤖 Automation & Integration</h3>
+<div align="center">
+  <a href="#"><img src="https://images.seeklogo.com/logo-png/47/2/n8n-logo-png_seeklogo-470809.png" alt="n8n" width="58" height="58"/></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1280px-Google_Apps_Script.svg.png" alt="Google Apps Script" width="58" height="58"/></a>
+  <a href="#"><img src="https://telegram.org/img/t_logo.png" alt="Telegram Bots" width="58" height="58"/></a>
+</div>
+
+<br/>
+<hr/>
+
+<!-- =========================
+     📫 Contact Section (PRO)
+========================= -->
+
+<h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-aljedi-420754357/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Q_5_7" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="42" height="42"/>
   </a>
 </p>
 
+<br/>
+<hr/>
 
----
+<!-- =========================
+     💬 Quote Section (PRO)
+========================= -->
 
-### 💬 Quote I Live By
+<h2 align="center">💬 Quote I Live By</h2>
 
-> "Programming isn't just about writing code, it's about building intelligent realities from ideas."
-**
+<p align="center">
+  <i>“Discipline beats motivation — every single day.”</i>
+</p>
