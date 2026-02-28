@@ -51,7 +51,6 @@ I specialize in developing **smart tools** and **advanced automation systems** t
 <h3 align="center">📈 Trading & Market Tech</h3>
 <div align="center">
   <a href="#"><img src="https://images.genai.works/image_eee79ba42a.png" alt="Pine Script" width="58" height="58"/></a>
-  <a href="#"><img src="https://www.fpmarkets.com/assets/images/blogs/mql4.png" alt="MQL4" width="58" height="58"/></a>
   <a href="#"><img src="https://www.fpmarkets.com/assets/images/blogs/mql4.png" alt="MQL5" width="58" height="58"/></a>
 </div>
 
@@ -62,7 +61,7 @@ I specialize in developing **smart tools** and **advanced automation systems** t
 <div align="center">
   <a href="#"><img src="https://images.seeklogo.com/logo-png/47/2/n8n-logo-png_seeklogo-470809.png" alt="n8n" width="58" height="58"/></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1280px-Google_Apps_Script.svg.png" alt="Google Apps Script" width="58" height="58"/></a>
-  <a href="#"><img src="https://telegram.org/img/t_logo.png" alt="Telegram Bots" width="58" height="58"/></a>
+  <a href="#"><img src="https://cdn.prod.website-files.com/637e5037f3ef83b76dcfc8f9/67e70d8c0f38cd6dc809b3c0_botfather.webp" alt="Telegram Bots" width="58" height="58"/></a>
 </div>
 
 <br/>
