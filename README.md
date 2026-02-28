@@ -34,39 +34,83 @@ I specialize in developing **smart tools** and **advanced automation systems** t
 
 <br/>
 
+<!-- =========================
+     🛠️ Skills (Clean Tiles)
+========================= -->
+
+<style>
+  .skill-row{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:14px;
+    margin-top:10px;
+  }
+  .skill-tile{
+    width:74px;
+    height:74px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-radius:16px;
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.10);
+    box-shadow: 0 8px 18px rgba(0,0,0,0.28);
+    backdrop-filter: blur(6px);
+    transition: transform .15s ease, background .15s ease, border-color .15s ease;
+  }
+  .skill-tile:hover{
+    transform: translateY(-2px);
+    background: rgba(255,255,255,0.10);
+    border-color: rgba(255,255,255,0.18);
+  }
+  .skill-icon{
+    width:40px;
+    height:40px;
+    object-fit:contain;
+    display:block;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,.35));
+  }
+</style>
+
 <!-- ✅ Core Languages -->
 <h3 align="center">⚙️ Core Languages</h3>
-<div align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="58" height="58"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="58" height="58"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="58" height="58"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="58" height="58"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="58" height="58"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="58" height="58"/></a>
+<div class="skill-row">
+  <span class="skill-tile"><img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"></span>
+  <span class="skill-tile"><img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"></span>
+  <span class="skill-tile"><img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"></span>
+  <span class="skill-tile"><img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"></span>
+  <span class="skill-tile"><img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"></span>
+  <span class="skill-tile"><img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"></span>
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- ✅ Trading & Market Tech -->
 <h3 align="center">📈 Trading & Market Tech</h3>
-<div align="center">
-  <a href="#"><img src="https://images.genai.works/image_eee79ba42a.png" alt="Pine Script" width="58" height="58"/></a>
-  <a href="#"><img src="https://www.fpmarkets.com/assets/images/blogs/mql4.png" alt="MQL5" width="58" height="58"/></a>
+<div class="skill-row">
+  <span class="skill-tile"><img class="skill-icon" src="https://images.genai.works/image_eee79ba42a.png" alt="Pine Script"></span>
+
+  <!-- ملاحظة: صور MQL غالبًا PNG بخلفية بيضاء، لذلك نحطها داخل Tile فيطلع شكلها طبيعي -->
+  <span class="skill-tile"><img class="skill-icon" src="https://www.fpmarkets.com/assets/images/blogs/mql4.png" alt="MQL4"></span>
+  <span class="skill-tile"><img class="skill-icon" src="https://www.fpmarkets.com/assets/images/blogs/mql4.png" alt="MQL5"></span>
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- ✅ Automation & Integration -->
 <h3 align="center">🤖 Automation & Integration</h3>
-<div align="center">
-  <a href="#"><img src="https://images.seeklogo.com/logo-png/47/2/n8n-logo-png_seeklogo-470809.png" alt="n8n" width="58" height="58"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1280px-Google_Apps_Script.svg.png" alt="Google Apps Script" width="58" height="58"/></a>
-  <a href="#"><img src="https://e7.pngegg.com/pngimages/783/780/png-clipart-telegram-bot-api-security-token-internet-bot-chatbot-robot-electronics-fictional-character.png" alt="Telegram Bots" width="58" height="58"/></a>
+<div class="skill-row">
+  <span class="skill-tile"><img class="skill-icon" src="https://images.seeklogo.com/logo-png/47/2/n8n-logo-png_seeklogo-470809.png" alt="n8n"></span>
+  <span class="skill-tile"><img class="skill-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1280px-Google_Apps_Script.svg.png" alt="Google Apps Script"></span>
+
+  <!-- هذه الصورة فيها تفاصيل كثيرة وخلفية مزعجة: Tile رح يخفي المشكلة جزئياً.
+       الأفضل تبدّلها بأيقونة تيليجرام الرسمية مثل telegram logo. -->
+  <span class="skill-tile"><img class="skill-icon" src="https://telegram.org/img/t_logo.png" alt="Telegram Bots"></span>
 </div>
 
 <br/>
 <hr/>
-
 <!-- =========================
      📫 Contact Section (PRO)
 ========================= -->
