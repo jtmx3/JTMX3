@@ -1,26 +1,29 @@
 
-<div dir="rtl" align="center">
+<div align="center">
 
-# عبدالله الجدي 👨‍💻
+# Abdullah Aljedi 👨‍💻
 
-### طالب ذكاء اصطناعي 🎓 | مطور أدوات تداول 📈 | خبير برمجة وأتمتة 🚀
-
----
-
-### 💡 عني
-
-أنا مبرمج شغوف ومحترف، أدرس حاليًا **الذكاء الاصطناعي وعلوم البيانات**. أتخصص في تطوير **أدوات التداول الذكية** و**أنظمة الأتمتة المتقدمة** التي تحل المشاكل بكفاءة ودقة. لدي خبرة عملية في التداول، مما يمنحني فهمًا عميقًا للأسواق المالية وكيفية بناء أدوات فعالة للمتداولين.
-
-- 💻 **أتقن لغات برمجة متعددة** تشمل: Python, Java, JavaScript, Pine Script, HTML, CSS, C#
-- 📈 **خبير في تطوير مؤشرات وأدوات تداول متقدمة** باستخدام الذكاء الاصطناعي والتحليل الفني.
-- 🤖 **أبني أنظمة أتمتة ذكية** توفر الوقت وتتعامل مع المهام المعقدة.
-- 🛠️ **أدمج الذكاء الاصطناعي** في أدوات صنع القرار الفورية والأنظمة القائمة على البيانات.
-
-> 🎯 هدفي هو إنشاء أدوات ذكية تعمل من أجل الناس — بكفاءة وذكاء وبدون تعقيد.
+### AI Student 🎓 | Algorithmic Trading Developer 📈 | Automation & Smart Systems Programmer 🚀
 
 ---
 
-### 🛠️ المهارات التقنية
+### 💡 About Me
+
+I am a passionate and professional programmer currently studying **Artificial Intelligence and Data Science**. I specialize in developing **algorithmic trading systems** and **intelligent tools** based on quantitative analysis and systematic risk management. My focus is on building autonomous and precise decision-making tools that minimize randomness and enhance statistical discipline.
+
+I possess practical experience in trading, developing trading robots and indicators, alongside web development using JavaScript, HTML, CSS, and proficiency in Java with practical experience in other languages. This diverse background enables me to bridge theoretical knowledge with practical application within real market environments and various programming projects.
+
+- 💻 **Proficient in multiple programming languages** including: Python, C#, JavaScript, Pine Script, MQL5, HTML, CSS, Java
+- 📊 **Develop trading systems** based on data analysis, hypothesis testing, and structured backtesting.
+- ⚙️ **Build automation pipelines** for data processing, news filtering, and execution of trading decisions.
+- 🧠 **Apply machine learning models** to assess trade probabilities before execution.
+- 🛡️ **Prioritize risk management engineering** before pursuing maximum returns.
+
+> 🎯 My goal is to build intelligent, autonomous systems and tools that operate efficiently and precisely, providing reliable decisions to users without complexity or randomness.
+
+---
+
+### 🛠️ Technical Skills
 
 <p align="center">
   <!-- Languages -->
@@ -44,7 +47,7 @@
 
 ---
 
-### 📊 إحصائيات GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
@@ -52,10 +55,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </p>
 
-
 ---
 
-### 📫 تواصل معي
+### 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-aljedi-420754357/" target="_blank" rel="noopener noreferrer">
