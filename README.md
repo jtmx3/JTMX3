@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+###  🧠 About Me
 
 I'm a passionate and professional programmer currently studying **Artificial Intelligence and Data Science**.  
 I specialize in developing **smart tools** and **advanced automation systems** that solve real-world problems efficiently.
