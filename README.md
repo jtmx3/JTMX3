@@ -22,10 +22,10 @@ I specialize in developing **smart tools** and **advanced automation systems** t
 
 ---
 
-### 🛠️ Programming & Automation Skills
 
 
-### 🛠️ Programming & Automation Skills
+
+**### 🛠️ Programming & Automation Skills
 
 <div align="center">
 
@@ -72,3 +72,4 @@ I specialize in developing **smart tools** and **advanced automation systems** t
 ### 💬 Quote I Live By
 
 > "Programming isn't just about writing code, it's about building intelligent realities from ideas."
+**
