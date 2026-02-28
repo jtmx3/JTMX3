@@ -1,145 +1,70 @@
-<p align="center">
-  <img src="https://66.media.tumblr.com/de1b2945b1c79b545a980c3776d6276c/tumblr_ogcrgoPCqN1rfd7lko1_r1_500.gif" width="700" alt="Coding GIF">
-</p>
 
-<h1 align="center">Hi I'm Abdullah </h1>
-<h3 align="center">AI Student 🎓 | Trading Tools Developer 📈 | Automation & Smart Systems Programmer 💻</h3>
+<div dir="rtl" align="center">
 
----
+# عبدالله الجدي 👨‍💻
 
-###  🧠 About Me
-
-I'm a passionate and professional programmer currently studying **Artificial Intelligence and Data Science**.  
-I specialize in developing **smart tools** and **advanced automation systems** that solve real-world problems efficiently.
-
-- 💻 Proficient in multiple programming languages including: **Python**, **Java**, **JavaScript**, **Pine Script**, **HTML**, **CSS**, and **C#**
-- ⚙️ Build intelligent automation systems that handle complex tasks and save time
-- 📈 Expert in developing **advanced trading indicators and tools** using AI and technical analysis
-- 🤖 Integrate artificial intelligence into real-time decision-making tools and data-driven systems
-- 🛠️ Constantly building practical, innovative projects that combine smart tech with real-world impact
-
-> 🎯 My goal is to create smart tools that work for people — efficiently, intelligently, and without unnecessary complexity.
+### طالب ذكاء اصطناعي 🎓 | مطور أدوات تداول 📈 | خبير برمجة وأتمتة 🚀
 
 ---
 
-<!-- =========================
-     🛠️ Skills Section (PRO)
-========================= -->
+### 💡 عني
 
-<h2 align="center">🛠️ Programming & Automation Skills</h2>
+أنا مبرمج شغوف ومحترف، أدرس حاليًا **الذكاء الاصطناعي وعلوم البيانات**. أتخصص في تطوير **أدوات التداول الذكية** و**أنظمة الأتمتة المتقدمة** التي تحل المشاكل بكفاءة ودقة. لدي خبرة عملية في التداول، مما يمنحني فهمًا عميقًا للأسواق المالية وكيفية بناء أدوات فعالة للمتداولين.
 
-<p align="center">
-  <sub><b>Core Languages</b> • Trading & Market Tech • Automation & Integration</sub>
-</p>
+- 💻 **أتقن لغات برمجة متعددة** تشمل: Python, Java, JavaScript, Pine Script, HTML, CSS, C#
+- 📈 **خبير في تطوير مؤشرات وأدوات تداول متقدمة** باستخدام الذكاء الاصطناعي والتحليل الفني.
+- 🤖 **أبني أنظمة أتمتة ذكية** توفر الوقت وتتعامل مع المهام المعقدة.
+- 🛠️ **أدمج الذكاء الاصطناعي** في أدوات صنع القرار الفورية والأنظمة القائمة على البيانات.
 
-<br/>
+> 🎯 هدفي هو إنشاء أدوات ذكية تعمل من أجل الناس — بكفاءة وذكاء وبدون تعقيد.
 
-<!-- =========================
-     🛠️ Skills (Clean Tiles)
-========================= -->
-<!-- =========================
-     🛠️ Skills Section (GitHub Safe)
-========================= -->
+---
 
-<h2 align="center">🛠️ Programming & Automation Skills</h2>
+### 🛠️ المهارات التقنية
 
 <p align="center">
-  <sub><b>Core Languages</b> • Trading & Market Tech • Automation & Integration</sub>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  
+  <!-- Trading -->
+  <img src="https://img.shields.io/badge/Pine%20Script-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" alt="Pine Script"/>
+  <img src="https://img.shields.io/badge/MQL4-005496?style=for-the-badge&logo=metatrader&logoColor=white" alt="MQL4"/>
+  <img src="https://img.shields.io/badge/MQL5-005496?style=for-the-badge&logo=metatrader&logoColor=white" alt="MQL5"/>
+
+  <!-- Automation -->
+  <img src="https://img.shields.io/badge/n8n-1A82E2?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script"/>
+  <img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots"/>
 </p>
 
-<br/>
+---
 
-<!-- ✅ Core Languages -->
-<h3 align="center">⚙️ Core Languages</h3>
-<div align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:14px;">
-  <span style="width:74px;height:74px;display:flex;align-items:center;justify-content:center;border-radius:16px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.10);box-shadow:0 8px 18px rgba(0,0,0,0.28);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="object-fit:contain;display:block;">
-  </span>
+### 📊 إحصائيات GitHub
 
-  <span style="width:74px;height:74px;display:flex;align-items:center;justify-content:center;border-radius:16px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.10);box-shadow:0 8px 18px rgba(0,0,0,0.28);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="object-fit:contain;display:block;">
-  </span>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+</p>
 
-  <span style="width:74px;height:74px;display:flex;align-items:center;justify-content:center;border-radius:16px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.10);box-shadow:0 8px 18px rgba(0,0,0,0.28);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="object-fit:contain;display:block;">
-  </span>
 
-  <span style="width:74px;height:74px;display:flex;align-items:center;justify-content:center;border-radius:16px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.10);box-shadow:0 8px 18px rgba(0,0,0,0.28);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="object-fit:contain;display:block;">
-  </span>
+---
 
-  <span style="width:74px;height:74px;display:flex;align-items:center;justify-content:center;border-radius:16px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.10);box-shadow:0 8px 18px rgba(0,0,0,0.28);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="object-fit:contain;display:block;">
-  </span>
-
-  <span style="width:74px;height:74px;display:flex;align-items:center;justify-content:center;border-radius:16px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.10);box-shadow:0 8px 18px rgba(0,0,0,0.28);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="object-fit:contain;display:block;">
-  </span>
-</div>
-
-<br/><br/>
-
-<!-- ✅ Trading & Market Tech -->
-<h3 align="center">📈 Trading & Market Tech</h3>
-<div align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:14px;">
-  <span style="width:74px;height:74px;display:flex;align-items:center;justify-content:center;border-radius:16px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.10);box-shadow:0 8px 18px rgba(0,0,0,0.28);">
-    <img src="https://images.genai.works/image_eee79ba42a.png" alt="Pine Script" width="40" height="40" style="object-fit:contain;display:block;">
-  </span>
-
-  <span style="width:74px;height:74px;display:flex;align-items:center;justify-content:center;border-radius:16px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.10);box-shadow:0 8px 18px rgba(0,0,0,0.28);">
-    <img src="https://www.fpmarkets.com/assets/images/blogs/mql4.png" alt="MQL4" width="40" height="40" style="object-fit:contain;display:block;">
-  </span>
-
-  <span style="width:74px;height:74px;display:flex;align-items:center;justify-content:center;border-radius:16px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.10);box-shadow:0 8px 18px rgba(0,0,0,0.28);">
-    <img src="https://www.fpmarkets.com/assets/images/blogs/mql4.png" alt="MQL5" width="40" height="40" style="object-fit:contain;display:block;">
-  </span>
-</div>
-
-<br/><br/>
-
-<!-- ✅ Automation & Integration -->
-<h3 align="center">🤖 Automation & Integration</h3>
-<div align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:14px;">
-  <span style="width:74px;height:74px;display:flex;align-items:center;justify-content:center;border-radius:16px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.10);box-shadow:0 8px 18px rgba(0,0,0,0.28);">
-    <img src="https://images.seeklogo.com/logo-png/47/2/n8n-logo-png_seeklogo-470809.png" alt="n8n" width="40" height="40" style="object-fit:contain;display:block;">
-  </span>
-
-  <span style="width:74px;height:74px;display:flex;align-items:center;justify-content:center;border-radius:16px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.10);box-shadow:0 8px 18px rgba(0,0,0,0.28);">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1280px-Google_Apps_Script.svg.png" alt="Google Apps Script" width="40" height="40" style="object-fit:contain;display:block;">
-  </span>
-
-  <span style="width:74px;height:74px;display:flex;align-items:center;justify-content:center;border-radius:16px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.10);box-shadow:0 8px 18px rgba(0,0,0,0.28);">
-    <img src="https://telegram.org/img/t_logo.png" alt="Telegram Bots" width="40" height="40" style="object-fit:contain;display:block;">
-  </span>
-</div>
-
-<br/>
-<hr/>
-<!-- =========================
-     📫 Contact Section (PRO)
-========================= -->
-
-<h2 align="center">📫 Contact Me</h2>
+### 📫 تواصل معي
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-aljedi-420754357/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://t.me/Q_5_7" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="42" height="42"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
 
-<br/>
-<hr/>
-
-<!-- =========================
-     💬 Quote Section (PRO)
-========================= -->
-
-<h2 align="center">💬 Quote I Live By</h2>
-
-<p align="center">
-  <i>“Discipline beats motivation — every single day.”</i>
-</p>
+</div>
